@@ -1,0 +1,13 @@
+name = "Just Enough Breeding (JEBr)"
+filename = "justenoughbreeding-quilt-1.21-1.21.1-1.6.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Pk89J3g/versions/llZaLN1P/justenoughbreeding-quilt-1.21-1.21.1-1.6.2.jar"
+hash-format = "sha512"
+hash = "eb0c6520bfdf7a02598de67d92f0d2ac2959c5be41b7a4b96203f6811c3ec8d28e7c59947084b38feeada0202bdd29b3d6d58015c61d3facf4c348cfd1704c74"
+
+[update]
+[update.modrinth]
+mod-id = "9Pk89J3g"
+version = "llZaLN1P"

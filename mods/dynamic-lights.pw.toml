@@ -1,0 +1,13 @@
+name = "Dynamic Lights"
+filename = "dynamiclights-v1.9+bump-mc1.17-1.21.10-mod.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7YjclEGc/versions/TcYq0d9t/dynamiclights-v1.9%2Bbump-mc1.17-1.21.10-mod.jar"
+hash-format = "sha512"
+hash = "3fede9d4cf4688aef125bf098bc4c5d788ff854a64c0c679c16dd53e3be786dad88dbb878aefdcf0c94a9f5b6f91e05a65b800c0cf469a881aa2b04a1e34e764"
+
+[update]
+[update.modrinth]
+mod-id = "7YjclEGc"
+version = "TcYq0d9t"

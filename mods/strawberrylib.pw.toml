@@ -1,0 +1,13 @@
+name = "StrawberryLib"
+filename = "strawberrylib-1.21.10-r7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9Ya7Yyre/versions/fer3zSkB/strawberrylib-1.21.10-r7.jar"
+hash-format = "sha512"
+hash = "229ff8c3f10553e3bb77391f69ca2ad902d0a487521f49429c8cf353cb6adcad05d93458cee2ee793033c4648f4279be609b8e78d8f8fc000da8219af5f3201d"
+
+[update]
+[update.modrinth]
+mod-id = "9Ya7Yyre"
+version = "fer3zSkB"
